@@ -24,6 +24,6 @@ public class Circulo implements Figura {
  
     @Override
     public void graficar() {
-       System.out.println("Circle: Graficar() [Color : " + color + ", x : " + x + ", y :" + y + ", radio :" + radio);
+       System.out.println("Circle: [Color : " + color + ", x : " + x + ", y :" + y + ", radio :" + radio);
     }
  }
