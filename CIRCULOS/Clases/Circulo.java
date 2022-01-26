@@ -9,7 +9,7 @@ public class Circulo implements Figura {
     public Circulo(String color){
        this.color = color;		
     }
- 
+ //HOLA MUY BUENAS
     public void setX(int x) {
        this.x = x;
     }
